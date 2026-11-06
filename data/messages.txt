@@ -1,0 +1,42 @@
+[M1] 28.09.2026 - Hat şirketi
+Arrival notice: Container MSCU4829153 gated out 28 Sep 2026. Free time:
+5 calendar days. Detention: USD 150/day.
+
+[M2] 01.10.2026 - Hat şirketi
+Container MAEU7731042 released and gated out on 01 Oct. Free time 4
+business days. Detention rate USD 100 per day.
+
+[M3] 30.09.2026 - Hat şirketi
+HLCU5520187 gate-out 30/09/2026. 7 days free. Detention: first 3 days
+USD 120/day, thereafter USD 200/day.
+
+[M4] 02.10.2026 - Sürücü
+HLCU5520187 boşaltıldı, 6 Ekim'de iade ediyoruz.
+
+[M5] 02.10.2026 - Hat şirketi
+CMAU3301986 picked up 02 Oct 2026. Free time 5 days (calendar).
+USD 175/day after free time.
+
+[M6] 03.10.2026 - Hat şirketi
+TGHU9004512 gated out 3 Oct. 10 free days. USD 100/day.
+
+[M7] 04.10.2026 - Sürücü
+HLCU 552018-7'nin şasisi arızalandı, iade 12 Ekim'e kaldı.
+
+[M8] 04.10.2026 - Depo
+TGHU9004512 boşaltma bitti, 8 Ekim'de iade planlandı.
+
+[M9] 05.10.2026 - Sürücü
+MSCU 482915-3 perşembe iade ediyoruz.
+
+[M10] 05.10.2026 - Depo
+MAEU7731042 boşaltması 9 Ekim Cuma bitecek, aynı gün iade.
+
+[M11] 05.10.2026 - Depo
+CMAU3301986 için haftaya bir ara araç ayarlarız.
+
+[M12] 05.10.2026 - Gümrük müşaviri
+OOLU6612408 hâlâ terminalde, gümrük onayı bekleniyor.
+
+[M13] 05.10.2026 - Muhasebe
+Eylül ayı faturaları sisteme yüklendi, kontrol edebilir misiniz?

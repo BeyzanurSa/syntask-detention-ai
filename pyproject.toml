@@ -1,0 +1,17 @@
+[project]
+name = "detention-ai"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.7",
+    "rich>=13",
+    "llama-cpp-python>=0.3",  # install with CMAKE_ARGS="-DGGML_METAL=on"
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "huggingface_hub>=0.25", "psutil"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["llm: runs the real local model (slow)"]
+addopts = "-m 'not llm'"
